@@ -1,0 +1,33 @@
+/*Sara Anne LaMachia
+MEOW
+
+Peach- #FFB44D 
+Periwinkle- #678DE8 
+Sea Green- #2EFFBC 
+Purple- #AE46FF */
+
+a {
+  color: #678DE8
+}
+
+h1 { 
+  color:#678DE8
+}
+
+
+.color1 {
+  width: 200px;
+  height: 200px;
+  background-color: #FFB44D
+}
+.color2 {
+  width: 200px;
+  height: 200px;
+  background-color: #2EFFBC 
+}
+.color3 {
+  width: 200px;
+  height: 200px;
+  background-color: #AE46FF
+}
+
