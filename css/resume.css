@@ -1,25 +1,46 @@
 /*375C78, 368060, BB6E4F, BB8D4F*/
 
 
-
+body {
+  background-color: #FFCBB6;
+}
 
 h1 {
   text-align: center;
   color: #368060;
 }
 
-h3 {
+h2 {
   text-align: center;
   color: #368060;
 }
 
-h4{
+h3 {
   border-bottom-width: 2px;
   border-bottom-style: solid;
-  
-
-div class="experience"{
-  line-height: 2px;
-  
 }
-    
+
+h4 {
+  color: #337F5E;
+}
+
+.experience h3 {
+  color: #375C78;
+}
+
+.education h3 {
+  color: #375C78;
+}
+
+.additionals h3 {
+  color: #375C78;
+}
+
+.volunteer h3 {
+  color: #375C78;
+}
+
+h5 {
+  float: right;
+  color: #6C337A;
+}
