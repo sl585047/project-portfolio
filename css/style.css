@@ -6,6 +6,20 @@ Periwinkle- #678DE8
 Sea Green- #2EFFBC 
 Purple- #AE46FF */
 
+
+header { 
+ background-color: #DDDDDD;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 30px;
+}
+
+#boo {
+  text-align: center;  
+}
+
 a {
   color: #678DE8
 }
@@ -14,20 +28,36 @@ h1 {
   color:#678DE8
 }
 
+.colorwrapper{
+  background-color: pink;
+}
 
-.color1 {
-  width: 200px;
+.colorsquare{
+   width: 200px;
   height: 200px;
-  background-color: #FFB44D
+  float: left;
+}
+ 
+.color1 {
+  background-color: #C44444;
 }
 .color2 {
-  width: 200px;
-  height: 200px;
-  background-color: #2EFFBC 
+  background-color: #2D8168; 
 }
 .color3 {
-  width: 200px;
-  height: 200px;
-  background-color: #AE46FF
+  background-color: #369D36;
 }
 
+.color4 {
+  background-color: #C47144;
+}
+
+.clearfix: before,
+.clearfix: after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after{
+  clear: both;
+}
