@@ -2,21 +2,39 @@
 
 
 body {
-  background-color: #FFCBB6;
+ background-image: url('../images/texturetastic_gray.png');
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5em;
 }
 
 h1, h2 {
   text-align: center;
-  color: #368060;
+  color: #C44444;
+  font-family: 'ostrich sans', sans-serif;
+  
 }
 
 h3 {
   border-bottom-width: 2px;
   border-bottom-style: solid;
+  font-family: 'ostrich sans', sans-serif;
+  color: #2D8168;
 }
 
 h4 {
-  color: #337F5E;
+  color: #2D8168;
+  font-family: 'ostrich sans rounded', sans-serif;  
+}
+
+h5 {
+  float: right;
+  color: #6C337A;
+  font-family: 'ostrich sans rounded';
+}
+
+body{
+  font-family: sans-serif;
 }
 
 .experience h3 {
@@ -35,7 +53,13 @@ h4 {
   color: #375C78;
 }
 
-h5 {
-  float: right;
-  color: #6C337A;
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after{
+  clear: both;
 }
