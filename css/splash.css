@@ -1,0 +1,22 @@
+html { 
+background-image: url('../images/7167254825_d01cff938d_k.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+
+
+body{
+  text-align:center; 
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 3em;
+  font-family: barrio; sans-serif; 
+}
+
+h2{
+  font-family: barrio; sans-serif;
