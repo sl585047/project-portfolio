@@ -1,0 +1,29 @@
+/*375C78, 368060, BB6E4F, BB8D4F*/
+
+
+body {
+ background-image: url('../images/greyfloral.png');
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5em;
+}
+
+h1 {
+  text-align: center;
+  color: #DF5F76;
+  font-family: 'Rochester', sans-serif;
+  
+}
+
+h2 {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  font-family: 'Rochester', sans-serif;
+  color: #FF879C;
+}
+
+.scaled-image{
+  max-width: 100%;
+  height: auto;
+}
+

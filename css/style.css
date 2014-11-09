@@ -61,7 +61,16 @@ h1 {
   background-color: #C47144;
 }
 
+.navigation{
+  list-style: none;
+  }
 
+li{
+  display: inline-block;
+  padding: 10px;
+  border-left: solid purple;
+    
+}
 .site-footer a{
 font-size: 1.5em;
 color: #678DE8;
