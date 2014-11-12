@@ -6,10 +6,10 @@ Periwinkle- #678DE8
 Sea Green- #2EFFBC 
 Purple- #AE46FF */
 
-@import url(http://fonts.googleapis.com/css?family=Merriweather);
 
-body{
-  font-family: "merriweather", serif;
+
+body {
+  background-image: url('..//images/tree_bark.png');
 }
 
 header { 
@@ -19,7 +19,7 @@ header {
   margin-right: auto;
   text-align: center;
   padding: 30px;
-  font-family:"american_horror_story";
+  font-family:'Cabin Sketch';
   text-transform: uppercase;
   font-size: 2em;
   
@@ -32,13 +32,13 @@ header {
 .main {
   width:70%;
   float: left;
-  border:solid;
+  border:dashed;
  
 }
 .sidebar{
   width:25%;
   float: right;
-  border: solid;
+  border: dashed;
   
 }
 a {
@@ -51,6 +51,11 @@ h1 {
 
 .colorwrapper{
   
+}
+
+p{
+  font-family:'Open Sans';
+  font-size:1.5em;
 }
 
 .colorsquare{
@@ -80,6 +85,8 @@ h1 {
 li{
   display: inline-block;
   padding: 10px;
+  font-family:'Open Sans';
+  font-size:1.5em;
     
 }
 .site-footer a{
@@ -105,5 +112,5 @@ color: #C44444;
   width: 100%;
   float: none;
   text-align: center;
-  border: solid;
+  border: dashed;
 }
