@@ -1,0 +1,29 @@
+
+
+
+body {
+  background-image: url('..//images/symphony.png');
+}
+
+
+
+
+p{
+  font-size:17px;
+  padding-left:30px;
+  padding-right:50px;
+  max-width:600px;
+  font-family:'Open Sans';
+ 
+  
+}
+
+h1{ 
+  font-family:'Cabin Sketch';
+  color:purple;
+}
+
+h2{
+  font-family:'Cabin Sketch';
+  color:green;
+}
